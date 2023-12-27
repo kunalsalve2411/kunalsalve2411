@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kunnal Salve
-- 👀 I’m interested in Web Development,
--                       Full Stack,
--                       
+- 👀 I’m interested in Web Development, Full Stack, PostgresSQL, Database
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me kunalsalve@2411gmai.com
 - 🤝 linkedin     https://www.linkedin.com/in/kunal-salve-a571b0254/
