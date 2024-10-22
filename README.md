@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kunal .
-- 👀 I’m interested in Web Development, Full Stack, PostgresSQL, Database 
+- 👀 I’m interested in Web Development, Clou, DevOps
 - 🌱 I’m currently learning DSA and much more ..!
 - 📫 How to reach me kunalsalve@2411gmail.com
 - 🤝 linkedin.: https://www.linkedin.com/in/kunal-salve-a571b0254/
